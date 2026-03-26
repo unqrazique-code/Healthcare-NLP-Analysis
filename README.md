@@ -40,7 +40,7 @@ This project analyzes patient feedback using Natural Language Processing (NLP) t
 
 ##  Dashboard Preview
 
-![Dashboard](images/Dashboard.png)
+![Dashboard](https://github.com/unqrazique-code/Healthcare-NLP-Analysis/blob/187c0c079c79489c1099d64cce8c4a05902c544f/Dashboard.png)
 
 ---
 
