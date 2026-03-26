@@ -1,0 +1,172 @@
+Review,Rating,cleaned_review,sentiment_score,sentiment
+Doctor was very kind and helpful,5,doctor kind helpful,0.78,Positive
+Waiting time is too long,2,waiting time long,-0.05,Negative
+Staff behavior was rude,1,staff behavior rude,-0.3,Negative
+Clean hospital and fast service,4,clean hospital fast service,0.2833333333333333,Positive
+Poor hygiene in rooms,1,poor hygiene room,-0.4,Negative
+Doctor explained everything clearly,5,doctor explained everything clearly,0.09999999999999999,Positive
+Reception staff was not helpful,2,reception staff helpful,0.0,Neutral
+Very professional doctors,5,professional doctor,0.13,Positive
+Long queue and delay in treatment,2,long queue delay treatment,-0.05,Negative
+Nurses were very caring,5,nurse caring,0.2,Positive
+Bad experience overall,1,bad experience overall,-0.3499999999999999,Negative
+Quick diagnosis and treatment,4,quick diagnosis treatment,0.3333333333333333,Positive
+Facilities were not clean,2,facility clean,-0.18333333333333335,Negative
+Excellent service and support,5,excellent service support,1.0,Positive
+Doctor was rude and impatient,1,doctor rude impatient,-0.25,Negative
+Appointment system is very slow,2,appointment system slow,-0.39000000000000007,Negative
+Friendly staff and good care,5,friendly staff good care,0.5375,Positive
+Expensive treatment charges,3,expensive treatment charge,-0.5,Negative
+Very satisfied with service,5,satisfied service,0.65,Positive
+Waiting area was crowded,2,waiting area crowded,0.0,Neutral
+Good hospital environment,4,good hospital environment,0.7,Positive
+Unprofessional behavior by staff,1,unprofessional behavior staff,0.0,Neutral
+Doctor listened carefully,5,doctor listened carefully,-0.1,Negative
+Treatment was ineffective,2,treatment ineffective,0.0,Neutral
+Hygiene needs improvement,2,hygiene need improvement,0.0,Neutral
+Fast and efficient service,5,fast efficient service,0.2,Positive
+Staff was supportive,4,staff supportive,0.5,Positive
+Poor management system,1,poor management system,-0.4,Negative
+Highly recommended hospital,5,highly recommended hospital,0.16,Positive
+Delay in emergency response,1,delay emergency response,0.0,Neutral
+Very clean and organized,5,clean organized,0.47666666666666674,Positive
+Doctor was not attentive,2,doctor attentive,-0.2,Negative
+Good experience overall,4,good experience overall,0.35,Positive
+Too much waiting time,1,much waiting time,0.2,Positive
+Helpful nurses and staff,5,helpful nurse staff,0.0,Neutral
+Billing process is confusing,2,billing process confusing,-0.3,Negative
+Professional and polite doctors,5,professional polite doctor,0.1,Positive
+Rooms were not maintained,2,room maintained,0.0,Neutral
+Very happy with treatment,5,happy treatment,1.0,Positive
+Lack of proper communication,2,lack proper communication,0.0,Neutral
+Doctor gave clear instructions,5,doctor gave clear instruction,0.09999999999999999,Positive
+Poor service quality,1,poor service quality,-0.4,Negative
+Staff was very rude,1,staff rude,-0.39,Negative
+Satisfied with treatment,4,satisfied treatment,0.5,Positive
+Long waiting hours,1,long waiting hour,-0.05,Negative
+Excellent facilities,5,excellent facility,1.0,Positive
+Average experience,3,average experience,-0.15,Negative
+Doctor was very helpful,5,doctor helpful,0.2,Positive
+Bad hygiene conditions,1,bad hygiene condition,-0.6999999999999998,Negative
+Friendly environment,4,friendly environment,0.375,Positive
+The doctor was exceptionally kind and caring,5,doctor exceptionally kind caring,0.6,Positive
+The wait time was absolutely unbearable,1,wait time absolutely unbearable,0.2,Positive
+Front desk staff were extremely disrespectful,1,front desk staff extremely disrespectful,-0.125,Negative
+Impressed by the cleanliness and speed,4,impressed cleanliness speed,1.0,Positive
+Room hygiene was far below standards,1,room hygiene far standard,0.1,Positive
+The physician explained the diagnosis perfectly,5,physician explained diagnosis perfectly,1.0,Positive
+Receptionists were quite dismissive,2,receptionist quite dismissive,0.0,Neutral
+High level of professionalism from doctors,5,high level professionalism doctor,0.16,Positive
+Significant delays in getting treatment,2,significant delay getting treatment,0.375,Positive
+The nursing team was incredibly compassionate,5,nursing team incredibly compassionate,0.9,Positive
+I had a terrible experience from start to finish,1,terrible experience start finish,-1.0,Negative
+Diagnosis was rapid and effective,4,diagnosis rapid effective,0.6,Positive
+The facility felt dirty and unkept,2,facility felt dirty unkept,-0.6,Negative
+Outstanding support and medical service,5,outstanding support medical service,0.25,Positive
+The doctor acted very impatient and short,1,doctor acted impatient short,-0.13,Negative
+The booking process is incredibly sluggish,2,booking process incredibly sluggish,0.9,Positive
+Warm staff and top-tier medical care,5,warm staff top tier medical care,0.3,Positive
+Medical bills were higher than expected,3,medical bill higher expected,0.049999999999999996,Positive
+Completely happy with the care received,5,completely happy care received,0.8,Positive
+The waiting lobby was overstuffed and loud,2,waiting lobby overstuffed loud,0.1,Positive
+The hospital atmosphere was pleasant,4,hospital atmosphere pleasant,0.7333333333333334,Positive
+Staff acted in a very unprofessional manner,1,staff acted unprofessional manner,0.2,Positive
+Physician took the time to listen to me,5,physician took time listen,0.0,Neutral
+The prescribed treatment didn't work at all,2,prescribed treatment work,0.0,Neutral
+Sanitize levels are lacking in common areas,2,sanitize level lacking common area,-0.3,Negative
+Incredible speed and efficiency in care,5,incredible speed efficiency care,0.9,Positive
+Personnel were helpful and supportive,4,personnel helpful supportive,0.5,Positive
+Hospital management is totally disorganized,1,hospital management totally disorganized,0.0,Neutral
+I would highly recommend this facility to others,5,would highly recommend facility others,0.16,Positive
+Emergency services were very slow to react,1,emergency service slow react,-0.39000000000000007,Negative
+Very tidy and well-structured facility,5,tidy well structured facility,0.78,Positive
+The doctor seemed distracted during the visit,2,doctor seemed distracted visit,0.0,Neutral
+Generally a positive experience for me,4,generally positive experience,0.22727272727272727,Positive
+Waited for three hours which is unacceptable,1,waited three hour unacceptable,0.0,Neutral
+Nurses and support staff were very helpful,5,nurse support staff helpful,0.2,Positive
+The billing department is a total mess,2,billing department total mess,-0.0875,Negative
+Doctors are both professional and courteous,5,doctor professional courteous,0.35,Positive
+Patient rooms are in poor condition,2,patient room poor condition,-0.4,Negative
+Overjoyed with the results of my surgery,5,overjoyed result surgery,0.0,Neutral
+Communication between departments is lacking,2,communication department lacking,0.0,Neutral
+Instructions from the doctor were very precise,5,instruction doctor precise,0.52,Positive
+Overall quality of service was very low,1,overall quality service low,0.0,Neutral
+Rude behavior from the nursing assistants,1,rude behavior nursing assistant,-0.3,Negative
+Content with the treatment plan,4,content treatment plan,0.0,Neutral
+Expect to wait a long time here,1,expect wait long time,-0.05,Negative
+Top-notch facilities and medical equipment,5,top notch facility medical equipment,0.5,Positive
+Not the best but not the worst experience,3,best worst experience,0.0,Neutral
+Very helpful and knowledgeable physician,5,helpful knowledgeable physician,0.2,Positive
+Hygiene standards are quite poor here,1,hygiene standard quite poor,-0.4,Negative
+Welcoming environment for patients,4,welcoming environment patient,0.0,Neutral
+Amazing doctor truly cared about my health,5,amazing doctor truly cared health,0.6000000000000001,Positive
+We waited much longer than promised,2,waited much longer promised,0.2,Positive
+Staff showed zero respect to patients,1,staff showed zero respect patient,0.0,Neutral
+Spotless hospital with very quick check-in,4,spotless hospital quick check,0.43333333333333335,Positive
+The patient rooms were filthy,1,patient room filthy,-0.8,Negative
+Every detail was explained clearly by the MD,5,every detail explained clearly md,0.09999999999999999,Positive
+The receptionists were not very helpful today,2,receptionist helpful today,-0.1,Negative
+Doctors here are world-class professionals,5,doctor world class professional,0.0,Neutral
+Treatment delay was very frustrating,2,treatment delay frustrating,-0.52,Negative
+The nurses were literal angels,5,nurse literal angel,0.0,Neutral
+Truly a bad experience all around,1,truly bad experience around,-0.6999999999999998,Negative
+Got a diagnosis and treatment plan quickly,4,got diagnosis treatment plan quickly,0.3333333333333333,Positive
+Facilities need a deep cleaning,2,facility need deep cleaning,0.0,Neutral
+Exceptional support throughout my stay,5,exceptional support throughout stay,0.6666666666666666,Positive
+Physician was quite rude and rushed me,1,physician quite rude rushed,-0.3,Negative
+Scheduling an appointment is a nightmare,2,scheduling appointment nightmare,0.0,Neutral
+Staff was friendly and care was excellent,5,staff friendly care excellent,0.6875,Positive
+Costs are a bit steep compared to others,3,cost bit steep compared others,0.0,Neutral
+I am very pleased with the hospital service,5,pleased hospital service,0.65,Positive
+No seats left in the crowded waiting area,2,seat left crowded waiting area,0.0,Neutral
+Good overall environment and vibe,4,good overall environment vibe,0.35,Positive
+Unprofessional conduct by some staff members,1,unprofessional conduct staff member,0.0,Neutral
+The doctor listened to all my concerns,5,doctor listened concern,0.0,Neutral
+The medicine provided was ineffective,2,medicine provided ineffective,0.0,Neutral
+Hygiene needs to be a higher priority,2,hygiene need higher priority,0.25,Positive
+Fast service and zero hassles,5,fast service zero hassle,0.2,Positive
+Supportive staff made my stay easier,4,supportive staff made stay easier,0.5,Positive
+Management needs to fix their system,1,management need fix system,0.0,Neutral
+Definitely the best hospital in the area,5,definitely best hospital area,0.5,Positive
+Response time in ER was far too slow,1,response time er far slow,-0.10000000000000002,Negative
+Very clean hospital with great organization,5,clean hospital great organization,0.6383333333333334,Positive
+Doctor did not pay enough attention to me,2,doctor pay enough attention,0.0,Neutral
+Overall it was a good visit,4,overall good visit,0.35,Positive
+Tired of waiting for hours on end,1,tired waiting hour end,-0.4,Negative
+Great experience with the nurses and staff,5,great experience nurse staff,0.8,Positive
+Confusing and slow billing procedures,2,confusing slow billing procedure,-0.30000000000000004,Negative
+Doctors were polite and highly professional,5,doctor polite highly professional,0.1,Positive
+Maintenance in the rooms was very poor,2,maintenance room poor,-0.52,Negative
+Very satisfied with the clinical outcome,5,satisfied clinical outcome,0.65,Positive
+Information was not communicated well,2,information communicated well,0.0,Neutral
+Clear guidance provided by the specialist,5,clear guidance provided specialist,0.09999999999999999,Positive
+Quality of care was very disappointing,1,quality care disappointing,-0.78,Negative
+Staff behavior was completely unacceptable,1,staff behavior completely unacceptable,0.1,Positive
+I am satisfied with the care I received,4,satisfied care received,0.5,Positive
+The wait time is just ridiculous,1,wait time ridiculous,-0.3333333333333333,Negative
+Excellent and modern medical facilities,5,excellent modern medical facility,0.39999999999999997,Positive
+An average hospital visit overall,3,average hospital visit overall,-0.075,Negative
+Physician was helpful and kind-hearted,5,physician helpful kind hearted,0.0,Neutral
+The hygiene conditions are quite bad,1,hygiene condition quite bad,-0.6999999999999998,Negative
+Very friendly and helpful environment,4,friendly helpful environment,0.48750000000000004,Positive
+The doctor was a great listener,5,doctor great listener,0.8,Positive
+Waiting time was a bit much,2,waiting time bit much,0.2,Positive
+Disrespectful staff members,1,disrespectful staff member,0.0,Neutral
+Quick and efficient medical care,4,quick efficient medical care,0.16666666666666666,Positive
+Dirty bathrooms and rooms,1,dirty bathroom room,-0.6,Negative
+Great doctor-patient communication,5,great doctor patient communication,0.8,Positive
+Staff was not helpful at all,1,staff helpful,0.0,Neutral
+Treatment process was very smooth,5,treatment process smooth,0.52,Positive
+Waiting for a long time in the hall,2,waiting long time hall,-0.05,Negative
+Wonderful nurses and clean environment,5,wonderful nurse clean environment,0.6833333333333333,Positive
+Expensive but the quality is high,4,expensive quality high,-0.16999999999999998,Negative
+I will never come back to this place,1,never come back place,0.0,Neutral
+The specialist was very attentive,5,specialist attentive,0.52,Positive
+Reception was slow and disorganized,2,reception slow disorganized,-0.30000000000000004,Negative
+Medical staff were top tier,5,medical staff top tier,0.25,Positive
+Too many delays for a simple checkup,1,many delay simple checkup,0.25,Positive
+The room was spacious and clean,5,room spacious clean,0.3666666666666667,Positive
+Not enough staff to handle patients,2,enough staff handle patient,0.0,Neutral
+Kind doctors but slow management,4,kind doctor slow management,0.14999999999999997,Positive
+Absolute waste of time and money,1,absolute waste time money,0.0,Neutral
+Professional care and quick results,5,professional care quick result,0.21666666666666667,Positive
