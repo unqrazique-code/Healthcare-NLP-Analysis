@@ -40,7 +40,7 @@ This project analyzes patient feedback using Natural Language Processing (NLP) t
 
 ##  Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ---
 
